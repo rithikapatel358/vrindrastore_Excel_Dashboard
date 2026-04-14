@@ -1,6 +1,4 @@
-Here’s a clean, professional **README.md** you can directly use for your GitHub project 👇
 
----
 
 # 📊 Vrinda Store Data Analysis
 
